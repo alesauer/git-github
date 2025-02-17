@@ -39,6 +39,7 @@ Diferença entre as datas: 60 dias
 ## Exemplo de Uso
 
 Para modificar as datas, edite as variáveis `data_inicial` e `data_final` no arquivo `app.py`.
+Atente-se com o formato da data YYYY-MM-DD
 
 ## Licença
 
